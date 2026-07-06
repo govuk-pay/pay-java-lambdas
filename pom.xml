@@ -24,7 +24,7 @@
         <aws.java.sdk.version>2.42.3</aws.java.sdk.version>
         <aws.lambda.java.version>1.4.0</aws.lambda.java.version>
         <junit5.version>5.14.3</junit5.version>
-        <logback.version>1.5.25</logback.version>
+        <logback.version>1.5.33</logback.version>
         <slf4j.version>2.0.17</slf4j.version>
         <mockito.version>5.21.0</mockito.version>
         <jackson.version>2.21.1</jackson.version>
