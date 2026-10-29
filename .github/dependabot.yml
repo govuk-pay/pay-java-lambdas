@@ -1,6 +1,10 @@
 version: 2
 updates:
 - package-ecosystem: github-actions
+  groups:
+    pay-ci:
+      patterns:
+        - govuk-pay/pay-ci/*
   directory: /.github/workflows
   schedule:
     interval: daily
